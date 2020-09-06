@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(event) => {
   // your code here
-  
+
   document.addEventListener("submit", function(event) {
     event.preventDefault()
     let listOftasks = document.getElementById("tasks");
