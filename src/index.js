@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function(event) => {
+document.addEventListener("DOMContentLoaded",() => {
   // your code here
     let listOftasks = document.getElementById("tasks");
   document.addEventListener("submit", function(event) {
