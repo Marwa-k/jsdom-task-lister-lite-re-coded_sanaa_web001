@@ -9,4 +9,5 @@ document.addEventListener("DOMContentLoaded",() => {
     li.appendChild(text);
     listOftasks.appendChild(li);
     event.target.reset();
-});
+})
+})
